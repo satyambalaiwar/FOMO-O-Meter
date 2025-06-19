@@ -87,7 +87,7 @@ FOMO-O-Meter/
 
 * 📦 Package version for public TradingView publishing
 * 📤 Telegram/Discord bot integration with custom webhook messages
-* 🧠 Add AI-based adaptive thresholds (e.g., ML-detected FOMO patterns)
+* 🧠 Add AI-based adaptive thresholds.
 * 🖼️ Exportable heatmap zones for dashboards
 
 ---
